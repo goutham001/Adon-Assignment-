@@ -3,7 +3,7 @@
 * Package-manager : NPM
 * Database : Atlas (db.js)
 * NODE_ENV : development
-* SERVER_PORT : 8082
+* SERVER_PORT : 8081
 
 # DB Credentials 
 * HOST :  mongodb+srv://cluster0-vyrr1.mongodb.net/
